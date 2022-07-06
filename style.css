@@ -50,10 +50,9 @@ h1{
     color: #949daa;
     padding: 1px;
 }
-.amount-taka{
-    margin-left:26%;
-    padding: auto;
-
+.amount-taka {
+	margin: 0 auto;
+	text-align: center;
 }
 .button1{
     padding: 25px 25px;
